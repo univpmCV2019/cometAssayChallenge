@@ -1,4 +1,4 @@
-We provide for the Computer Vision project 2 separate files into initial script folder:
+We provide for the Computer Vision project two separate files into initial script folder:
 
 - split_data.py: it separates data into train/validation/test sets
 - tf_records.py: it reads the csv files extracted from the previous script to create tensorflow records
