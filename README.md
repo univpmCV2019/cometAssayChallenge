@@ -1,4 +1,4 @@
-We provide for the Computer Vision project a brief literature overview is provided into bibliography folder to introduce some Deep Learning techniques:
+For the Computer Vision project a brief literature overview is provided into bibliography folder to introduce some Deep Learning techniques:
 
 - Deep Learning techniques applied to comet assays
 - Bounding box segmentation methodologies
